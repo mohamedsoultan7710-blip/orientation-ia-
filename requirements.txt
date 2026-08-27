@@ -1,7 +1,8 @@
 streamlit
 pandas
 pillow
-requests
-ollama
+rapidfuzz
 pytesseract
 opencv-python-headless
+requests
+scikit-learn
