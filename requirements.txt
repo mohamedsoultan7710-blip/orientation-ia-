@@ -4,5 +4,6 @@ pillow
 rapidfuzz
 pytesseract
 opencv-python-headless
+numpy
 requests
 scikit-learn
