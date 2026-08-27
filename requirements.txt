@@ -4,3 +4,4 @@ pillow
 requests
 ollama
 pytesseract
+opencv-python-headless
